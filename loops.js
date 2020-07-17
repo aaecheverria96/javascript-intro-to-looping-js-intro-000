@@ -23,4 +23,3 @@ function doWhileLoop (n) {
     i = i + 1;
     return i;
   }]);
-}
